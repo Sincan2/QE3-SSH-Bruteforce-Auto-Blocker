@@ -2,10 +2,7 @@
 
 QE3 SSH Bruteforce Auto Blocker adalah script keamanan ringan berbasis **Bash** untuk melindungi server Linux dari serangan **brute-force SSH** secara otomatis tanpa dependency tambahan seperti Fail2Ban.
 
-Dirancang untuk environment:
-- ISP / NOC / SOC
 - VPS & Dedicated Server
-- Bastion Host
 - Server produksi minimalis
 
 ---
